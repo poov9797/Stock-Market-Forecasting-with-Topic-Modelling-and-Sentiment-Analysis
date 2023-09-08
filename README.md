@@ -1,5 +1,4 @@
 # MastersDissertation
-This is the final code i used for dissertation for stock market forecasting using sentiment analysis.
 
 # Stock Market Forecasting with Topic Modelling and Sentiment Analysis
 # Description:
