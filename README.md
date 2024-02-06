@@ -1,4 +1,3 @@
-# MastersDissertation
 
 # Stock Market Forecasting with Topic Modelling and Sentiment Analysis
 # Description:
